@@ -161,7 +161,7 @@ transition-delay: 0; */
 margin: 0 auto;
 max-width: 1600px;
 background: var(--color3);
-background-image: linear-gradient(to right,rgba(47, 48, 58, 0.4),rgba(47, 48, 58, 0.4)), url(/images/index/overlay.jpg);
+background-image: linear-gradient(to right,rgba(47, 48, 58, 0.4),rgba(47, 48, 58, 0.4)), url(./images/index/overlay.jpg);
 padding-top: 200px;
 padding-bottom: 200px;
 
